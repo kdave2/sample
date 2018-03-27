@@ -7,6 +7,6 @@
 * Point1
 * Point2
 
-```
+```python
 print "Hello World"
 ```
